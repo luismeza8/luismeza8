@@ -11,8 +11,7 @@ Hi! I am a FullStack Web Developer, I like to build things for the browser and/o
 <img align='left' width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align='left' width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <br />
-<br />
 # Portfolio
 #
 #### Charts panel for a PockectQube
-<img width='30%;' src='./assets/charts.gif'/>  
+<img width='300px' src='./assets/charts.gif'/>  
