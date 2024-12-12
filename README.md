@@ -15,7 +15,7 @@ Hi! I am a FullStack Web Developer, I like to build things for the browser and/o
 # Portfolio
 | **Chart panel** | **Project 2** |
 |---------------|---------------|
-| ![Project 1](./assets/charts.gif | width=300) | ![Project 2](./assets/project2.gif) |
+| <img src='./assets/charts.gif' width='300px' /> | ![Project 2](./assets/project2.gif) |
 | Project made with Django, Html, CSS, Javascript and Charts.js | Description for Project 2 |
 
 | **Project 3** | **Project 4** |
