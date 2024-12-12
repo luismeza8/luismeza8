@@ -26,4 +26,11 @@ Hi! I am a FullStack Web Developer, I like to build things for the browser and/o
 | ![Assistance system for employess](https://github.com/luismeza8/assistance_system) | <a href='https://abante.digital'>Landing page.</a> |
 |---------------|---------------|
 | <img src='./assets/assistance.gif' width='400px' /> | <img src='./assets/landing.gif' width='400px' /> |
-| Description for Project 3 | Description for Project 4 |
+| Description for Project 3 | Landing page for a business. |
+
+---
+
+### Contact me
+
+**Email:** luis.meza.developer@gmail.com
+**Linkedin:** ![luis-meza-dev](https://www.linkedin.com/in/luis-meza-dev/)
