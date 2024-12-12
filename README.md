@@ -18,7 +18,7 @@ Hi! I am a FullStack Web Developer, I like to build things for the browser and/o
 | <img src='./assets/charts.gif' width='400px' /> | <img src='./assets/catapp.gif' width='400px' /> |
 | Aplication made with the librarie Chart.js | Aplication for look to photos of difference breeds of cats.
 
-| ![Assistance system for employess](https://github.com/luismeza8/assistance_system) | ![Landing page](https://abante.digital) |
+| ![Assistance system for employess](https://github.com/luismeza8/assistance_system) | <a href='https://abante.digital'>Landing page.</a> |
 |---------------|---------------|
 | <img src='./assets/assistance.gif' width='400px' /> | <img src='./assets/landing.gif' width='400px' /> |
 | Description for Project 3 | Description for Project 4 |
