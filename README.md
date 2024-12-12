@@ -13,7 +13,7 @@ Hi! I am a FullStack Web Developer, I like to build things for the browser and/o
 <br />
 
 # Portfolio
-
+#
 | ![Charts panel for a PockectQube](https://github.com/luismeza8/human_machine_interface) | ![CatApp](https://github.com/luismeza8/CatApp) |
 |---------------|---------------|
 | <img src='./assets/charts.gif' width='400px' /> | <img src='./assets/catapp.gif' width='400px' /> |
