@@ -1,6 +1,6 @@
 # Luis Meza ☕
 Hi! I am a FullStack Web Developer, I like to build things for the browser and/or server.
-### Technologies that I use
+#### Technologies that I use
 <img align='left' width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 <img align='left' width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align='left' width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -11,6 +11,8 @@ Hi! I am a FullStack Web Developer, I like to build things for the browser and/o
 <img align='left' width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align='left' width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <br />
-
-### Charts panel for a PockectQube
-<img src='./assets/charts.gif'/>  
+<br />
+# Portfolio
+#
+#### Charts panel for a PockectQube
+<img width='30%;' src='./assets/charts.gif'/>  
