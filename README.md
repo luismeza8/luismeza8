@@ -1,4 +1,10 @@
-## Hi there 👋
+# Luis Meza 👋
+
+- I am a FullStack Web Deloper from México.
+
+#
+## Technologies that I use
+ <img width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 
 <!--
 **luismeza8/luismeza8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
