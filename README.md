@@ -10,5 +10,5 @@ Hi! I am a FullStack Web Developer, I like to build things for the browser and/o
 <img align='left' width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align='left' width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align='left' width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  
-![charts.js]([./assets/charts.gif](https://github.com/luismeza8/luismeza8/blob/main/assets/charts.gif))  
+![charts.js](https://github.com/luismeza8/luismeza8/blob/main/assets/charts.gif)  
 ###Chart panel for a PockeQube
