@@ -1,7 +1,6 @@
-# Luis Meza ☕  
-I am a FullStack Web Deloper from México.  
-I'am open to work as a freelance.  
-## Technologies that I use
+# Luis Meza ☕
+Hi! I am a FullStack Web Developer, I like to build things for the browser and/or server.
+### Technologies that I use
 <img align='left' width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 <img align='left' width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align='left' width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
