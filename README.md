@@ -10,13 +10,12 @@ Hi! I am a FullStack Web Developer, I like to build things for the browser and/o
 <img align='left' width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align='left' width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align='left' width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  
-<br />  
-
+<br />
 # Portfolio
 | ![Charts panel for a PockectQube](https://github.com/luismeza8/human_machine_interface) | ![CatApp](https://github.com/luismeza8/CatApp) |
 |---------------|---------------|
 | <img src='./assets/charts.gif' width='400px' /> | <img src='./assets/catapp.gif' width='400px' /> |
-| Aplication made with the librarie Chart.js | Aplication for look at photos of difference breeds of cats.
+| Aplication made with the library Chart.js | Aplication for look at photos of difference breeds of cats.
 
 | ![Assistance system for employess](https://github.com/luismeza8/assistance_system) | <a href='https://abante.digital'>Landing page.</a> |
 |---------------|---------------|
