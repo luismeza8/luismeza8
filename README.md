@@ -13,7 +13,7 @@ Hi! I am a FullStack Web Developer, I like to build things for the browser and/o
 <br />  
 
 # Portfolio
-| **Chart panel** | **Project 2** |
+| ![Charts panel for a PockectQube](https://github.com/luismeza8/human_machine_interface) | **Project 2** |
 |---------------|---------------|
 | <img src='./assets/charts.gif' width='400px' /> | ![Project 2](./assets/project2.gif) |
 | Project made with Django, Html, CSS, Javascript and Charts.js | Description for Project 2 |
