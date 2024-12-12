@@ -9,6 +9,6 @@ Hi! I am a FullStack Web Developer, I like to build things for the browser and/o
 <img align='left' width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align='left' width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align='left' width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align='left' width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-![Charts.js](./assets/charts.gif)
+<img align='left' width='30px' height='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  
+![charts.js](./assets/charts.gif)
 ####Chart panel for a PockeQube
