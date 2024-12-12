@@ -13,12 +13,12 @@ Hi! I am a FullStack Web Developer, I like to build things for the browser and/o
 <br />  
 
 # Portfolio
-| **Project 1** | **Project 2** |
+| **Chart panel** | **Project 2** |
 |---------------|---------------|
 | ![Project 1](./assets/charts.gif) | ![Project 2](./assets/project2.gif) |
-| Description for Project 1 | Description for Project 2 |
+| Project made with Django, Html, CSS, Javascript and Charts.js | Description for Project 2 |
 
 | **Project 3** | **Project 4** |
 |---------------|---------------|
-| ![Project 3](./assets/project3.gif) | ![Project 4](./assets/project4.gif) |
+| ![Project 3](./assets/project3.gif | width=300) | ![Project 4](./assets/project4.gif) |
 | Description for Project 3 | Description for Project 4 |
