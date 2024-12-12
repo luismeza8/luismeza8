@@ -13,6 +13,5 @@ Hi! I am a FullStack Web Developer, I like to build things for the browser and/o
 <br />  
 
 # Portfolio
---
-#### Charts panel for a PockectQube
+#### ![Charts panel for a PockectQube](https://github.com/luismeza8/human_machine_interface)
 <img width='400px' src='./assets/charts.gif'/>  
