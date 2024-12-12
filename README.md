@@ -13,4 +13,4 @@ Hi! I am a FullStack Web Developer, I like to build things for the browser and/o
 <br />
 
 ### Charts panel for a PockectQube
-![Charts project](https://github.com/luismeza8/luismeza8/blob/main/assets/charts.gif)  
+<img src='./assets/charts.js'/>  
