@@ -21,12 +21,12 @@ Hi! I am a FullStack Web Developer, I like to build things for the browser and/o
 | ![Charts panel for a PockectQube](https://github.com/luismeza8/human_machine_interface) | ![CatApp](https://github.com/luismeza8/CatApp) |
 |---------------|---------------|
 | <img src='./assets/charts.gif' width='400px' /> | <img src='./assets/catapp.gif' width='400px' /> |
-| Aplication made with the library Chart.js | Aplication for look at photos of difference breeds of cats.
+| Aplication made with the library Chart.js | Aplication for look at photos of difference breeds of cats. |
 
 | ![Assistance system for employess](https://github.com/luismeza8/assistance_system) | <a href='https://abante.digital'>Landing page.</a> |
 |---------------|---------------|
 | <img src='./assets/assistance.gif' width='400px' /> | <img src='./assets/landing.gif' width='400px' /> |
-| Description for Project 3 | Landing page for a business. |
+| Application to manage employees and their working time | Landing page for a business. |
 
 ---
 
